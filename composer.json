@@ -1,0 +1,6 @@
+{
+    "name": "stripe",
+    "description": "stripe test",
+    "type": "project",
+    "require": {"stripe/stripe-php":"3.*"}
+}
